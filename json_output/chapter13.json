@@ -1,0 +1,618 @@
+{
+  "Chapter": "LIGHT",
+  "Topics": [
+    {
+      "Topic Name": "Introduction",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "The world is largely known through\nthe senses. The sense of sight\nis one of the most important\nsenses. Through it we see mountains,\nrivers, trees, plants, chairs, people and\nso many other things around us. We also\nsee clouds, rainbows and birds flying\nin the sky. At night we see the moon\nand the stars. You are able to see the\nwords and sentences printed on this\npage. How is seeing made possible?"
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.1 What makes Things Visible",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "Have you ever thought how we see\nvarious objects? You may say that eyes\nsee the objects. But, can you see an\nobject in the dark? It means that eyes\nalone cannot see any object. It is only\nwhen light from an object enters our\neyes that we see the object. The light\nmay have been emitted by the object, or\nmay have been reflected by it.",
+            "You learnt in Class VII that a polished\nor a shiny surface can act as a mirror. A\nmirror changes the direction of light\nthat falls on it. Can you tell in which\ndirection the light falling on a surface\nwill be reflected? Let us find out."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.2 Laws of Reflection",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": "Activity 13.1",
+          "Content": [
+            "Draw lines showing the position of\nthe plane mirror, the incident ray and\nthe reflected ray on the paper with the\nhelp of your friends. Remove the mirror\nand the comb. Draw a line making an\nangle of 90º to the line representing the\nmirror at the point where the incident\nray strikes the mirror. This line is known\nas the normal to the reflecting surface\nat that point (Fig. 13.2). The angle\nbetween the normal and incident ray is\ncalled the angle of incidence (∠i). The\nangle between the normal and the\nreflected ray is known as the angle of\nreflection (∠r) (Fig. 13.3). Measure the\nangle of incidence and the angle of\nreflection. Repeat the activity several\ntimes by changing the angle of\nincidence. Enter the data in Table 13.1.",
+            "Do you see any relation between the\nangle of incidence and the angle of\nreflection. Are they approximately equal?",
+            "If the experiment is carried out carefully,\nit is seen that the angle of incidence is\nalways equal to the angle of reflection.\nThis is one of the laws of reflection.\nLet us perform another activity on\nreflection."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Arrangement for showing reflection",
+              "Path": "Fig. 13.1"
+            },
+            {
+              "Type": "Table",
+              "Description": "Angles of Incidence and Reflection",
+              "Path": "Table 13.1"
+            },
+            {
+              "Type": "Diagram",
+              "Description": "Drawing the normal",
+              "Path": "Fig. 13.2"
+            },
+            {
+              "Type": "Diagram",
+              "Description": "Angle of incidence and angle of reflection",
+              "Path": "Fig. 13.3"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.1",
+              "Description": "Fix a white sheet of paper on a\ndrawing board or a table. Take a\ncomb and close all its openings\nexcept one in the middle. You can\nuse a strip of black paper for\nthis purpose. Hold the comb\nperpendicular to the sheet of paper.\nThrow light from a torch through\nthe opening of the comb from one\nside (Fig. 13.1). With slight\nadjustment of the torch and the\ncomb you will see a ray of light along\nthe paper on the other side of the\ncomb. Keep the comb and the torch\nsteady. Place a strip of plane mirror\nin the path of the light ray\n(Fig. 13.1). What do you observe?\nAfter striking the mirror, the ray of\nlight is reflected in another direction.\nThe light ray, which strikes any surface,\nis called the incident ray. The ray that\ncomes back from the surface after\nreflection is known as the reflected ray.",
+              "Full Description": "Fix a white sheet of paper on a\ndrawing board or a table. Take a\ncomb and close all its openings\nexcept one in the middle. You can\nuse a strip of black paper for\nthis purpose. Hold the comb\nperpendicular to the sheet of paper.\nThrow light from a torch through\nthe opening of the comb from one\nside (Fig. 13.1). With slight\nadjustment of the torch and the\ncomb you will see a ray of light along\nthe paper on the other side of the\ncomb. Keep the comb and the torch\nsteady. Place a strip of plane mirror\nin the path of the light ray\n(Fig. 13.1). What do you observe?\nAfter striking the mirror, the ray of\nlight is reflected in another direction.\nThe light ray, which strikes any surface,\nis called the incident ray. The ray that\ncomes back from the surface after\nreflection is known as the reflected ray."
+            }
+          ],
+          "Boxed Facts or External Info": [
+            "A ray of light is an idealisation. In\nreality, we have a narrow beam of\nlight which is made up of several\nrays. For simplicity, we use the term\nray for a narrow beam of light."
+          ],
+          "Questions or Exercises": [
+            "What would happen if I\nthrew the light on the\nmirror along the normal."
+          ]
+        },
+        {
+          "Sub-topic Name": "Activity 13.2",
+          "Content": [
+            "When the whole sheet of paper is\nspread on the table, it represents one\nplane. The incident ray, the normal at\nthe point of incidence and the reflected\nray are all in this plane. When you bend\nthe paper you create a plane different\nfrom the plane in which the incident\nray and the normal lie. Then you do not\nsee the reflected ray. What does it\nindicate? It indicates that the incident\nray, the normal at the point of\nincidence and the reflected ray all lie\nin the same plane. This is another law\nof reflection.",
+            "Paheli and Boojho performed the\nabove activities outside the classroom\nwith the Sun as the source of light\ninstead of a torch. You, too, can use the\nSun as the source of light.\nThese activities can also be performed\nby making use of the Ray Streak\nApparatus (available in the kit\nprepared by NCERT).",
+            "Boojho remembered that in Class VII,\nhe had studied some features of the\nimage of an object formed by a plane\nmirror. Paheli asked him to recall\nthose features:\n(i) Was the image erect or upside\ndown?\n(ii) Was it of the same size as the\nobject?\n(iii) Did the image appear at the same\ndistance behind the mirror as the\nobject was in front of it?\n(iv) Could it be obtained on a screen?\nLet us understand a little more about\nthe formation of an image by a plane\nmirror in the following way:"
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Incident ray, reflected ray\nand the normal at the point\nof incidence lie in the same\nplane",
+              "Path": "Fig. 13.4 (a), (b)"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.2",
+              "Description": "Perform Activity 13.1 again. This\ntime use a sheet of stiff paper or a\nchart paper. Let the sheet project a\nlittle beyond the edge of the Table\n(Fig. 13.4). Cut the projecting\nportion of the sheet in the middle.\nLook at the reflected ray. Make sure\nthat the reflected ray extends to the\nprojected portion of the paper. Bend\nthat part of the projected portion on\nwhich the reflected ray falls. Can\nyou still see the reflected ray? Bring\nthe paper back to the original\nposition. Can you see the reflected\nray again? What do you infer?",
+              "Full Description": "Perform Activity 13.1 again. This\ntime use a sheet of stiff paper or a\nchart paper. Let the sheet project a\nlittle beyond the edge of the Table\n(Fig. 13.4). Cut the projecting\nportion of the sheet in the middle.\nLook at the reflected ray. Make sure\nthat the reflected ray extends to the\nprojected portion of the paper. Bend\nthat part of the projected portion on\nwhich the reflected ray falls. Can\nyou still see the reflected ray? Bring\nthe paper back to the original\nposition. Can you see the reflected\nray again? What do you infer?"
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.3",
+          "Content": [
+            "You may recall that in an image\nformed by a mirror the left of the object\nappears on the right and the right\nappears on the left. This is known as\nlateral inversion."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Image formation in a plane mirror",
+              "Path": "Fig. 13.5"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.3",
+              "Description": "A source of light O is placed in front\nof a plane mirror PQ. Two rays OA\nand OC are incident on it (Fig. 13.5).\nCan you find out the direction of\nthe reflected rays?\nDraw normals to the surface of\nthe mirror PQ, at the points A and\nC. Then draw the reflected rays at\nthe points A and C. How would you\ndraw these rays? Call the reflected\nrays AB and CD, respectively.\nExtend them further. Do they meet?\nExtend them backwards. Do they\nmeet now? If they meet, mark this\npoint as I. For a viewer’s eye at E\n(Fig. 13 .5), do the reflected rays\nappear to come from the point I.\nSince the reflected rays do not\nactually meet at I, but only appear\nto do so, we say that a virtual image\nof the point O is formed at I. As you\nhave learnt already in Class VII,\nsuch an image cannot be obtained\non a screen.",
+              "Full Description": "A source of light O is placed in front\nof a plane mirror PQ. Two rays OA\nand OC are incident on it (Fig. 13.5).\nCan you find out the direction of\nthe reflected rays?\nDraw normals to the surface of\nthe mirror PQ, at the points A and\nC. Then draw the reflected rays at\nthe points A and C. How would you\ndraw these rays? Call the reflected\nrays AB and CD, respectively.\nExtend them further. Do they meet?\nExtend them backwards. Do they\nmeet now? If they meet, mark this\npoint as I. For a viewer’s eye at E\n(Fig. 13 .5), do the reflected rays\nappear to come from the point I.\nSince the reflected rays do not\nactually meet at I, but only appear\nto do so, we say that a virtual image\nof the point O is formed at I. As you\nhave learnt already in Class VII,\nsuch an image cannot be obtained\non a screen."
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.3 Regular and Diffused Reflection",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": "Activity 13.4",
+          "Content": [
+            "When all the parallel rays reflected\nfrom a rough or irregular surface are\nnot parallel, the reflection is known as\ndiffused or irregular reflection.\nRemember that the diffused reflection\nis not due to the failure of the laws of\nreflection. It is caused by the\nirregularities in the reflecting surface,\nlike that of a cardboard.",
+            "On the other hand, reflection from\na smooth surface like that of a\nmirror is called regular reflection\n(Fig. 13.8). Images are formed by\nregular reflection."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Parallel rays incident on\nan irregular surface",
+              "Path": "Fig. 13.6"
+            },
+            {
+              "Type": "Diagram",
+              "Description": "Rays reflected from irregular\nsurface",
+              "Path": "Fig. 13.7"
+            },
+            {
+              "Type": "Diagram",
+              "Description": "Regular reflection",
+              "Path": "Fig. 13.8"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.4",
+              "Description": "Imagine that parallel rays are\nincident on an irregular surface as\nshown in Fig. 13.6. Remember that\nthe laws of reflection are valid at\neach point of the surface. Use these\nlaws to construct reflected rays at\nvarious points. Are they parallel to\none another? You will find that\nthese rays are reflected in different\ndirections. (Fig. 13.7)",
+              "Full Description": "Imagine that parallel rays are\nincident on an irregular surface as\nshown in Fig. 13.6. Remember that\nthe laws of reflection are valid at\neach point of the surface. Use these\nlaws to construct reflected rays at\nvarious points. Are they parallel to\none another? You will find that\nthese rays are reflected in different\ndirections. (Fig. 13.7)"
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.4 Reflected Light Can be Reflected Again",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "Recall the last time you visited a hair\ndresser. She/he makes you sit in front of\na mirror. After your hair cut is complete,\nshe/he holds a mirror behind you to show\nyou how the hair has been cut\n(Fig. 13.9). Do you know how you could\nsee the hair at the back of your head?",
+            "Paheli recalls having constructed a\nperiscope as an Extended Activity in\nClass VI. The periscope makes use of\ntwo plane mirrors. Can you explain\nhow reflection from the two mirrors\nenables you to see objects which are\nnot visible directly? Periscopes are\nused in submarines, tanks and also\nby soldiers in bunkers to see things\noutside."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Mirror at the hair dresser shop",
+              "Path": "Fig. 13.9"
+            }
+          ],
+          "Activities": [],
+          "Boxed Facts or External Info": [
+            "Do We See all Objects due to Reflected Light?\nNearly everything you see around is seen due to reflected light. Moon, for example,\nreceives light from the Sun and reflects it. That’s how we see the moon. The objects\nwhich shine in the light of other objects are called illuminated objects. Can you\nname some other such objects?\nThere are other objects, which give their own light, such as the Sun, fire, flame\nof a candle and an electric lamp. Their light falls on our eyes. That is how we see\nthem. The objects which emit their own light are known as luminous objects."
+          ],
+          "Questions or Exercises": [
+            "I have a question. Can the\nreflected rays be further reflected\nif incident on another mirror?"
+          ]
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.5 Multiple Images",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "You are aware that a plane mirror forms\nonly a single image of an object. What\nhappens if two plane mirrors are used\nin combination? Let us see."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.5",
+          "Content": [
+            "Can you now explain how you can\nsee the back of your head at the hair\ndresser’s shop?",
+            "This idea of number of images formed\nby mirrors placed at an angle to one\nanother is used in a kaleidoscope to\nmake numerous beautiful patterns. You\ncan also make a kaleidoscope yourself."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Images in plane mirror at right\nangle to each other",
+              "Path": "Fig. 13.10"
+            },
+            {
+              "Type": "Diagram",
+              "Description": "Image in plane mirror parallel\nto each other\nmirrors",
+              "Path": "Fig. 13.11"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.5",
+              "Description": "Take two plane mirrors. Set them\nat right angles to each other with\ntheir edges touching (Fig. 13.10). To\nhinge them you can use adhesive\ntape. Place a coin in between the\nmirrors. How many images of the\ncoin do you see (Fig. 13.10)?\nNow hinge the mirrors using the\nadhesive tape at different angles, say\n45°, 60°, 120°, 180° etc. Place some\nobject (say a candle) in between\nthem. Note down the number of\nimages of the object in each case.\nFinally, set the two mirrors\nparallel to each other. Find out\nhow many images of a candle\nplaced between them are formed\n(Fig. 13.11).",
+              "Full Description": "Take two plane mirrors. Set them\nat right angles to each other with\ntheir edges touching (Fig. 13.10). To\nhinge them you can use adhesive\ntape. Place a coin in between the\nmirrors. How many images of the\ncoin do you see (Fig. 13.10)?\nNow hinge the mirrors using the\nadhesive tape at different angles, say\n45°, 60°, 120°, 180° etc. Place some\nobject (say a candle) in between\nthem. Note down the number of\nimages of the object in each case.\nFinally, set the two mirrors\nparallel to each other. Find out\nhow many images of a candle\nplaced between them are formed\n(Fig. 13.11)."
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Kaleidoscope (Activity 13.6)",
+          "Content": [],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Making a kaleidoscope",
+              "Path": "Fig. 13.12"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.6",
+              "Description": "To make a kaleidoscope, get three\nrectangular mirror strips each about\n15 cm long and 4 cm wide. Join\nthem together to form a prism as\nshown in Fig. 13.12(a). Fix this\narrangement of mirrors in a circular\ncardboard tube or tube of a thick\nchart paper. Make sure that the tube\nis slightly longer than the mirror\nstrips. Close one end of the tube by\na cardboard disc having a hole in\nthe centre, through which you can\nsee [Fig. 13.12(b)]. To make the disc\ndurable, paste a piece of transparent\nplastic sheet under the cardboard\ndisc. At the other end, touching the\nmirrors, fix a circular plane glass\nplate [Fig. 13.12(c)]. Place on this\nglass plate several small pieces of\ncoloured glass (broken pieces of\ncoloured bangles). Close this end of\nthe tube by a ground glass plate.\nAllow enough space for the colour\npieces to move around.\nYour kaleidoscope is ready. When\nyou peep through the hole, you will be\nable to see a variety of patterns in the\ntube. An interesting feature of a\nkaleidoscope is that you will never see\nthe same pattern again. Designers of\nwallpapers and fabrics and artists often\nuse kaleidoscopes to get ideas for new\npatterns. To make your toy attractive,\nyou can wrap the kaleidoscope in a\ncoloured paper.",
+              "Full Description": "To make a kaleidoscope, get three\nrectangular mirror strips each about\n15 cm long and 4 cm wide. Join\nthem together to form a prism as\nshown in Fig. 13.12(a). Fix this\narrangement of mirrors in a circular\ncardboard tube or tube of a thick\nchart paper. Make sure that the tube\nis slightly longer than the mirror\nstrips. Close one end of the tube by\na cardboard disc having a hole in\nthe centre, through which you can\nsee [Fig. 13.12(b)]. To make the disc\ndurable, paste a piece of transparent\nplastic sheet under the cardboard\ndisc. At the other end, touching the\nmirrors, fix a circular plane glass\nplate [Fig. 13.12(c)]. Place on this\nglass plate several small pieces of\ncoloured glass (broken pieces of\ncoloured bangles). Close this end of\nthe tube by a ground glass plate.\nAllow enough space for the colour\npieces to move around.\nYour kaleidoscope is ready. When\nyou peep through the hole, you will be\nable to see a variety of patterns in the\ntube. An interesting feature of a\nkaleidoscope is that you will never see\nthe same pattern again. Designers of\nwallpapers and fabrics and artists often\nuse kaleidoscopes to get ideas for new\npatterns. To make your toy attractive,\nyou can wrap the kaleidoscope in a\ncoloured paper."
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.6 Sunlight — White or Coloured",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "In Class VII, you learnt that the sunlight\nis referred to as white light. You also\nlearnt that it consists of seven colours.\nHere is another activity (Activity 13.7)\nshowing that sunlight consists of several\ncolours."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.7",
+          "Content": [],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Dispersion of light",
+              "Path": "Fig. 13.13"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.7",
+              "Description": "Get a plane mirror of a suitable size.\nPlace it in a bowl (katori) as shown\nin Fig. 13.13. Fill the bowl with\nwater. Put this arrangement near a\nwindow in such a way that direct\nsunlight falls on the mirror. Adjust\nthe position of the\nbowl so that the\nreflected light from\nthe mirror falls on\na wall. If the wall is\nnot white, fix a sheet\nof white paper on it.\nReflected light will\nbe seen to have\nmany colours. How\ncan you explain\nthis? The mirror\nand water form a\nprism. As you learnt in Class VII,\nthis breaks up the light into its\ncolours, Splitting of light into its\ncolours is known as dispersion of\nlight. Rainbow is a natural\nphenomenon showing dispersion.",
+              "Full Description": "Get a plane mirror of a suitable size.\nPlace it in a bowl (katori) as shown\nin Fig. 13.13. Fill the bowl with\nwater. Put this arrangement near a\nwindow in such a way that direct\nsunlight falls on the mirror. Adjust\nthe position of the\nbowl so that the\nreflected light from\nthe mirror falls on\na wall. If the wall is\nnot white, fix a sheet\nof white paper on it.\nReflected light will\nbe seen to have\nmany colours. How\ncan you explain\nthis? The mirror\nand water form a\nprism. As you learnt in Class VII,\nthis breaks up the light into its\ncolours, Splitting of light into its\ncolours is known as dispersion of\nlight. Rainbow is a natural\nphenomenon showing dispersion."
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.7 What is inside Our Eyes?",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "We see things only when light coming\nfrom them enters our eyes. Eye is one\nof our most important sense organs. It\nis, therefore, important to understand\nits structure and working.\nThe eye has a roughly spherical\nshape. The outer coat of the eye is\nwhite. It is tough so that it can protect\nthe interior of the eye from accidents.\nIts transparent front part is called\ncornea (Fig. 13.14). Behind the cornea,\nwe find a dark muscular structure\ncalled iris. In the iris, there is a small\nopening called the pupil. The size of\nthe pupil is controlled by the iris. The\niris is that part of eye which gives it its\ndistinctive colour. When we say that a\nperson has green eyes, we refer actually\nto the color of the iris. The iris controls\nthe amount of light entering into the\neye. Let us see how."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Human eye",
+              "Path": "Fig. 13.14"
+            }
+          ],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.8",
+          "Content": [
+            "Behind the pupil of the eye is a lens\nwhich is thicker in the centre. What\nkind of lens is thicker at the centre?\nRecall what you learnt about lenses in\nClass VII. The lens focuses light on the\nback of the eye, on a layer called retina\n(Fig. 13.14). The retina contains several\nnerve cells. Sensations felt by the nerve\ncells are then transmitted to the brain\nthrough the optic nerve. There are two\nkinds of cells–\n(i) cones, which are sensitive to bright\nlight and\n(ii) rods, which are sensitive to dim light.\nCones sense color. At the junction\nof the optic nerve and the retina, there\nare no sensory cells, so no vision is\npossible at that spot. This is called the\nblind spot. Its existence can be\ndemonstrated as follows:"
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [
+            {
+              "Title": "Activity 13.8",
+              "Description": "Look into your friend’s eye. Observe\nthe size of the pupil. Throw light on\nher eye with a torch. Observe the\npupil now. Switch off the torch, and\nobserve her pupil once again. Do\nyou notice any change in the size\nof the pupil? In which case was the\npupil larger? Why do you think it\nwas so?\nIn which case do you need to\nallow more light in the eye, when\nthe light is dim or bright?",
+              "Full Description": "Look into your friend’s eye. Observe\nthe size of the pupil. Throw light on\nher eye with a torch. Observe the\npupil now. Switch off the torch, and\nobserve her pupil once again. Do\nyou notice any change in the size\nof the pupil? In which case was the\npupil larger? Why do you think it\nwas so?\nIn which case do you need to\nallow more light in the eye, when\nthe light is dim or bright?"
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.9",
+          "Content": [
+            "Nature has provided eyes with\neyelids to prevent any object from\nentering the eye. Eyelids also shut out\nlight when not required.",
+            "Eye is such a wonderful instrument\nthat it (normal) can clearly see distant\nobjects as well as objects nearby. The\nminimum distance at which the eye can\nsee objects distinctly varies with age. The\nmost comfortable distance at which one\ncan read with a normal eye is about\n25 cm.",
+            "Some persons can see objects close\nto them clearly but cannot see distant\nobjects so clearly. On the other hand,\nsome persons cannot see objects nearby\nclearly but they can see distant objects\nquite well. With suitable corrective\nlenses, these defects of the eye can\nbe corrected.",
+            "Sometimes, particularly in old age,\neyesight becomes foggy. It is due to the\neye lens becoming cloudy. When it\nhappens, persons are said to have\ncataract. There is a loss of vision,\nsometimes extremely severe. It is\npossible to treat this defect. The opaque\nlens is removed and a new artificial\nlens is inserted. Modern technology\nhas made this procedure simpler\nand safer."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Demonstration of blind spot",
+              "Path": "Fig. 13.15"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.9",
+              "Description": "Make a round mark and a cross on\na sheet of paper with the spot to the\nright of the cross (Fig. 13.15). The\ndistance between two marks may be\n6-8 cm. Hold the sheet of paper at\nan arm’s length from the eye. Close\nyour left eye. Look continuously at\nthe cross. Move the sheet slowly\ntowards you, keeping your eye on\nthe cross. What do you find? Does\nthe round mark disappear at some\npoint? Now close your right eye.\nLook at the round mark now and\nrepeat the activity. Does the cross\ndisappear? The disappearance of the\ncross or the round mark shows that\nthere is a point on the retina which\ncannot send messages to the brain\nwhen light falls on it.",
+              "Full Description": "Make a round mark and a cross on\na sheet of paper with the spot to the\nright of the cross (Fig. 13.15). The\ndistance between two marks may be\n6-8 cm. Hold the sheet of paper at\nan arm’s length from the eye. Close\nyour left eye. Look continuously at\nthe cross. Move the sheet slowly\ntowards you, keeping your eye on\nthe cross. What do you find? Does\nthe round mark disappear at some\npoint? Now close your right eye.\nLook at the round mark now and\nrepeat the activity. Does the cross\ndisappear? The disappearance of the\ncross or the round mark shows that\nthere is a point on the retina which\ncannot send messages to the brain\nwhen light falls on it."
+            }
+          ],
+          "Boxed Facts or External Info": [
+            "Caution : For this activity, never use\na laser torch.",
+            "The movies that we see are actually\na number of separate pictures in\nproper sequence. They are made to\nmove across the eye usually at the rate\nof 24 pictures per second (faster\nthan 16 per second). So, we see a\nmoving picture.\nThe impression of an image does not\nvanish immediately from the retina. It\npersists there for about 1/16th of a\nsecond. So, if still images of a moving\nobject are flashed on the eye at a rate\nfaster than 16 per second, then the eye\nperceives this object as moving."
+          ],
+          "Questions or Exercises": []
+        },
+        {
+          "Sub-topic Name": "Activity 13.10",
+          "Content": [],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Bird in cage",
+              "Path": "Fig. 13.16"
+            }
+          ],
+          "Activities": [
+            {
+              "Title": "Activity 13.10",
+              "Description": "Get a square piece of cardboard of\nsize 6-8 cm. Make two holes as\nshown in Fig. 13.16. Thread a\nstring through the two holes. Draw/\npaste a cage on one side of the\ncardboard and a bird on the other\nside. Twist the string and make the\ncard twirl rapidly. Do you see the\nbird in the cage?",
+              "Full Description": "Get a square piece of cardboard of\nsize 6-8 cm. Make two holes as\nshown in Fig. 13.16. Thread a\nstring through the two holes. Draw/\npaste a cage on one side of the\ncardboard and a bird on the other\nside. Twist the string and make the\ncard twirl rapidly. Do you see the\nbird in the cage?"
+            }
+          ],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.8 Care of the Eyes",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "It is necessary that you take proper care\nof your eyes. If there is any problem\nyou should go to an eye specialist. Have\na regular checkup—",
+            "l If advised, use suitable spectacles.",
+            "l Too little or too much light is bad\nfor eyes. Insufficient light causes\neyestrain and headaches. Too much\nlight, like that of the Sun, a powerful\nlamp or a laser torch can injure the\nretina.",
+            "l Do not look at the Sun or a powerful\nlight directly.",
+            "l Never rub your eyes. If particles of\ndust go into your eyes, wash your\neyes with clean water. If there is no\nimprovement go to a doctor.",
+            "l Always read at the normal distance\nfor vision. Do not read by bringing\nthe book too close to your eyes or\nkeeping it too far.",
+            "You learnt about balanced diet in\nClass VI. If food is deficient in some\ncomponents, eyes may also suffer. Lack\nof vitamin A in foodstuff is responsible\nfor many eye troubles. Most common\namongst them is night blindness.\nOne should, therefore, include in the\ndiet components which have vitamin A.\nRaw carrots, broccoli and green\nvegetables (such as spinach) and cod\nliver oil are rich in vitamin A. Eggs,\nmilk, curd, cheese, butter and fruits\nsuch as papaya and mango are also rich\nin vitamin A."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Eyes of a butterfly",
+              "Path": "Fig. 13.17"
+            }
+          ],
+          "Activities": [],
+          "Boxed Facts or External Info": [
+            "Did you know?\nAnimals have eyes shaped in different ways. Eyes of a crab are quite small but\nthey enable the crab to look all around. So, the crab can sense even if the enemy\napproaches from behind. Butterflies have large eyes that seem to be made up\nof thousands of little eyes\n(Fig. 13.17). They can see not only\nin the front and the sides but the\nback as well.\nA night bird (owl) can see very\nwell in the night but not during\nthe day. On the other hand, day\nlight birds (kite, eagle) can see\nwell during the day but not in the\nnight. The owl has a large cornea\nand a large pupil to allow more\nlight in its eye. Also, it has on its\nretina a large number of rods and\nonly a few cones. The day birds\non the other hand, have more\ncones and fewer rods."
+          ],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.9 Visually Impaired Persons Can Read and Write",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "Some persons, including children, can\nbe visually impaired. They have very\nlimited vision to see things. Some\npersons cannot see at all since birth.\nSome persons may lose their eyesight\nbecause of a disease or an injury. Such\npersons try to identify things by\ntouching and listening to voices more\ncarefully. They develop their other\nsenses more sharply. However,\nadditional resources can enable them\nto develop their capabilities further."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "13.10 What is the Braille System?",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "The most popular resource for visually\nchallenged persons is Braille.",
+            "The present system was adopted in\n1932. There is Braille code for common\nlanguages, mathematics and scientific\nnotation. Many Indian languages can\nbe read using the Braille system.\nBraille system has 63 dot patterns or\ncharacters.\nEach\ncharacter\nrepresents a letter, a combination of\nletters, a common word or a\ngrammatical sign. Dots are arranged\nin cells of two vertical rows of three\ndots each.\nPatterns of dots to represent some\nEnglish letters and some common\nwords are shown below.\nThese patterns when embossed on\nBraille\nsheets\nhelp\nvisually\nchallenged persons to recognise words\nby touching. To make them easier to\ntouch, the dots are raised slightly.",
+            "Visually impaired people learn the\nBraille system by beginning with\nletters, then special characters and\nletter combinations. Methods depend\nupon recognition by touching. Each\ncharacter has to be memorised. Braille\ntexts can be produced by hand or by\nmachine. Typewriter-like devices and\nprinting machines have now been\ndeveloped."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": "Example of dot patterns used\nin Braille System",
+              "Path": "Fig. 13.18"
+            }
+          ],
+          "Activities": [],
+          "Boxed Facts or External Info": [
+            "Louis Braille\nLouis Braille, himself a visually\nchallenged person, developed a\nsystem for visually challenged persons\nand published it in 1821.",
+            "Non-optical and optical aids for visually impaired\nNon-optical aids include visual aids, tactual aids (using the sense of touch), auditory\naids (using the sense of hearing) and electronic aids. Visual aids, can magnify\nwords, can provide suitable intensity of light and material at proper distances.\nTactual aids, including Braille writer slate and stylus, help the visually challenged\npersons in taking notes, reading and writing. Auditory aids include cassettes, tape\nrecorders, talking books and other such devices. Electronic aids, such as talking\ncalculators and computers, are also available for performing many computational\ntasks. Closed circuit television, also an electronic aid, enlarges printed material\nwith suitable contrast and illumination. Nowadays, use of audio CDs and voice boxes\nwith computers are also very helpful for listening to and writing the desired text.\nOptical aids include bifocal lenses, contact lenses, tinted lenses, magnifiers\nand telescopic aids. While the lens combinations are used to rectify visual\nlimitations, telescopic aids are available to view chalkboard and class\ndemonstrations.",
+            "Some visually impaired Indians have great achievements to their\ncredit. Diwakar, a child prodigy has given amazing performances\nas a singer.\nRavindra Jain, born completely visually impaired, obtained\nhis Sangeet Prabhakar degree from Allahabad. He had shown his\nexcellence as a lyricist, singer and music composer.\nLal Advani, himself visually impaired, established an\nAssociation for special education and rehabilitation of disabled\nin India. Besides this, he represented India on Braille problems\nin UNESCO.\nHelen A. Keller, an American author and lecturer, is perhaps the most well-\nknown and inspiring visually challenged person. She lost her sight when she was\nonly 18 months old. But because of her resolve and courage she could complete\nher graduation from a university. She wrote a number of books including The\nStory of my Life (1903)."
+          ],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "KEYWORDS",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "ANGLE OF INCIDENCE",
+            "ANGLE OF REFLECTION",
+            "BLIND SPOT",
+            "BRAILLE",
+            "CONES",
+            "CORNEA",
+            "DIFFUSED OR IRREGULAR REFLECTION",
+            "INCIDENT RAYS",
+            "IRIS",
+            "KALEIDOSCOPE",
+            "LATERAL INVERSION",
+            "LAWS OF REFLECTION",
+            "PUPIL",
+            "REFLECTED RAYS",
+            "REFLECTION",
+            "REGULAR REFLECTION",
+            "RETINA",
+            "RODS"
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "WHAT YOU HAVE LEARNT",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "Light is reflected from all surfaces.",
+            "Regular reflection takes place when light is\nincident on smooth, polished and regular\nsurfaces.",
+            "Diffused or irregular reflection takes place from\nrough surfaces.",
+            "Two laws of reflection are\n(i)\nThe angle of incidence is equal to the angle\nof reflection.\n(ii) Incident ray, reflected ray and the normal\ndrawn at the point of incidence to the\nreflecting surface, lie in the same plane.",
+            "Image formed in a plane mirror undergoes\nlateral inversion.",
+            "Two mirrors inclined to each other give multiple\nimages.",
+            "Beautiful patterns are formed in a\nkaleidoscope because of multiple reflections.",
+            "Sunlight, called white light, consists of seven\ncolours.",
+            "Splitting of light into its constituent colours is\nknown as dispersion.",
+            "Parts of the eye are cornea, iris, pupil, lens,\nretina and optic nerve.",
+            "A normal eye can see nearby and distant\nobjects clearly.",
+            "Visually impaired persons can read and write\nusing the Braille system.",
+            "Visually impaired persons develop their other\nsenses more sharply to improve their interac-\ntion with their environment."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "Exercises",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [],
+          "Images": [],
+          "Diagrams or Tables": [
+            {
+              "Type": "Diagram",
+              "Description": null,
+              "Path": "Fig. 13.19"
+            },
+            {
+              "Type": "Diagram",
+              "Description": null,
+              "Path": "Fig. 13.20"
+            },
+            {
+              "Type": "Diagram",
+              "Description": null,
+              "Path": "Fig. 13.21"
+            }
+          ],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": [
+            "1.\nSuppose you are in a dark room. Can you see objects in the room? Can\nyou see objects outside the room. Explain.",
+            "2.\nDifferentiate between regular and diffused reflection. Does diffused\nreflection mean the failure of the laws of reflection?",
+            "3.\nMention against each of the following whether regular or diffused reflection\nwill take place when a beam of light strikes. Justify your answer in each\ncase.\n(a)\nPolished wooden table\n(b) Chalk powder\n(c)\nCardboard surface\n(d) Marble floor with water\nspread over it\n(e)\nMirror\n(f)\nPiece of paper",
+            "4.\nState the laws of reflection.",
+            "5.\nDescribe an activity to show that the incident ray, the reflected ray and\nthe normal at the point of incidence lie in the same plane.",
+            "6.\nFill in the blanks in the following.\n(a)\nA person 1 m in front of a plane mirror seems to be _______________ m\naway from his image.\n(b)\nIf you touch your ____________ ear with right hand in front of a plane\nmirror it will be seen in the mirror that your right ear is touched with\n____________.\n(c)\nThe size of the pupil becomes ____________ when you see in dim light.\n(d)\nNight birds have ____________ cones than rods in their eyes.",
+            "Choose the correct option in Questions 7 – 8",
+            "7.\nAngle of incidence is equal to the angle of reflection.\n(a) Always\n(b) Sometimes\n(c) Under special conditions\n(d) Never",
+            "8.\nImage formed by a plane mirror is\n(a) virtual, behind the mirror and enlarged.\n(b) virtual, behind the mirror and of the same size as the object.\n(c) real at the surface of the mirror and enlarged.\n(d) real, behind the mirror and of the same size as the object.",
+            "9.\nDescribe the construction of a kaleidoscope.",
+            "10.\nDraw a labelled sketch of the human eye.",
+            "11.\nGurmit wanted to perform Activity 13.8 using a laser torch. Her teacher\nadvised her not to do so. Can you explain the basis of the teacher’s advise?",
+            "12.\nExplain how you can take care of your eyes.",
+            "13.\nWhat is the angle of incidence of a ray if the reflected ray is at an angle of\n90° to the incident ray?",
+            "14.\nHow many images of a candle will be formed if it is placed between two\nparallel plane mirrors separated by 40 cm?",
+            "15.\nTwo mirrors meet at right angles. A ray of light is incident on one at an\nangle of 30° as shown in Fig. 13.19. Draw the reflected ray from the second\nmirror.",
+            "16.\nBoojho stands at A just on the side of a plane mirror as shown in\nFig. 13.20. Can he see himself in the mirror? Also can he see the image of\nobjects situated at P, Q and R?",
+            "17.\n(a)\nFind out the position of the image of an object situated at A in the\nplane mirror (Fig. 13.21).\n(b)\nCan Paheli at B see this image?\n(c)\nCan Boojho at C see this image?\n(d)\nWhen Paheli moves from B to C, where does the image of A move?"
+          ]
+        }
+      ]
+    },
+    {
+      "Topic Name": "Extended Learning — Activities and Project",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "1.\nMake your own mirror. Take a glass strip or glass slab. Clean it and\nput it on a white sheet of paper. See yourself in the glass. Next put\nthe glass slab on a black sheet of paper. Again look into the glass.\nIn which case do you see yourself better and why?",
+            "2.\nMake friends with some visually impaired students. Enquire from\nthem how they read and write. Also find out how they are able to\nrecognise objects, hurdles and currency notes.",
+            "3.\nMeet an eye specialist. Get your eye sight checked and discuss how\nto take care of your eyes.",
+            "4.\nSurvey your neighbourhood. Find out how many children below\nthe age of 12 years use spectacles. Find out from their parents\nwhat, in their view, could be the reason for the weak eyesight of\ntheir children."
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [
+            "Did You Know?\nEyes can be donated by any person as an invaluable gift to visually\nimpaired persons suffering from corneal blindness, The person may be\n(a)\na male or female.\n(b)\nof any age.\n(c)\nof any social status.\n(d)\nusing spectacles.\n(e)\nsuffering from any normal disease but not AIDS, Hepatitis B or C,\nrabies, leukemia, lymphoma, tetanus, cholera, encephalitis.\nThe eyes have to be donated within 4-6 hours after death at any\nplace, home or hospital.\nA person who wants to donate the eyes may pledge eyes during his/her\nlifetime to any registered eye bank. He/she should also inform his/her\nrelatives about this pledge so that they can take necessary action after\nhis/her death.\nYou can also donate a Braille kit."
+          ],
+          "Questions or Exercises": []
+        }
+      ]
+    },
+    {
+      "Topic Name": "Notes",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": null,
+          "Content": [
+            "2024-25",
+            "Notes",
+            "2024-25",
+            "Notes",
+            "2024-25"
+          ],
+          "Images": [],
+          "Diagrams or Tables": [],
+          "Activities": [],
+          "Boxed Facts or External Info": [],
+          "Questions or Exercises": []
+        }
+      ]
+    }
+  ]
+}

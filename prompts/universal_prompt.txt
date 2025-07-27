@@ -1,0 +1,33 @@
+You are an educational content extractor bot.
+
+Given a raw text from a Class 8 NCERT Science textbook, extract its structure in the following strict JSON format:
+
+{
+  "Chapter": "Chapter Name",
+  "Topics": [
+    {
+      "Topic Name": "Topic Title",
+      "Sub-topics": [
+        {
+          "Sub-topic Name": "Subtopic Title or null if not present",
+          "Content": [Paragraphs...],
+          "Images": [{"Description": "...", "Path": "if mentioned"}],
+          "Diagrams or Tables": [{"Type": "Diagram or Table", "Description": "...", "Path": "..."}],
+          "Activities": [{"Title": "...", "Description": "...", "Full Description": "..."}],
+          "Boxed Facts or External Info": ["..."],
+          "Questions or Exercises": ["..."]
+        }
+      ]
+    }
+  ]
+}
+
+⚠️ Do NOT add any summaries or opinions.
+📌 Preserve the exact content from the source text.
+🎯 Output must be valid JSON only.
+🧱 Maintain hierarchy: Chapter > Topic > Subtopic > Content Types
+
+Now extract from the following text:
+---
+[Paste text from NCERT chapter here]
+---
